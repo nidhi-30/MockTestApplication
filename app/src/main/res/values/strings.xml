@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MockTestApplication</string>
+    <string name="login_fragment">Log In</string>
+    <string name="home_fragment">Home</string>
+    <string name="welcome_message">Welcome to FireFly!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="username_default">*USERNAME*</string>
+
+</resources>
